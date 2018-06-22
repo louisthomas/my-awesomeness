@@ -6,7 +6,8 @@ A curated list of awesome frameworks, libraries, software and tutorials.
   - [Prometheus](#prometheus)
   - [Cache](#cache)
   - [Secret](#secret)
-  - [Message](#nessage)
+  - [Message](#message)
+  - [Feature Flag](#feature)
 
 ## Projects
 
@@ -40,3 +41,9 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 *Message queue technology*
 
 - [Spring cloud stream](https://piotrminkowski.wordpress.com/2018/06/15/building-and-testing-message-driven-microservices-using-spring-cloud-stream/) - Building and testing message-driven microservices using Spring Cloud Stream
+
+### Feature
+
+*Feature flagging, A/B testing*
+
+- [Flagr](https://github.com/checkr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
