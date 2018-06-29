@@ -3,23 +3,26 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 
 ## Contents
 - [Projects](#projects)
-  - [Prometheus](#prometheus)
+  - [Monitoring](#monitoring)
   - [Cache](#cache)
   - [Secret](#secret)
   - [Message](#message)
   - [Feature Flag](#feature)
-
+  - [Chaos](#chaos)
+  - [Devops](#devops)
+  
 ## Projects
 
 
-### Prometheus
+### Monitoring
 
 *Application monitoring*
 
 - [Promregator](https://github.com/promregator/promregator) - Prometheus Aggregator for Cloud Foundry.
 - [Promregator & micrometer](https://docs.google.com/document/d/1XGwjn1wUW843q8G8SEsZYuMRuBIKhsufH0yUEaLMbPc/edit?ts=5afc5875) - SCDF Metrics Collection with Micrometer, Prometheus and Grafana - CloudFoundry.
-- [Sprint boot & Prometheus](https://dzone.com/articles/monitoring-using-spring-boot-20-prometheus-and-gra) - Set Up and Integrate Prometheus With Grafana for Monitoring
-
+- [Sprint Boot & Prometheus](https://dzone.com/articles/monitoring-using-spring-boot-20-prometheus-and-gra) - Set Up and Integrate Prometheus With Grafana for Monitoring
+- [Spring Boot Actuator 2.0 & Micrometer](https://www.slideshare.net/makingx/spring-boot-actuator-20-micrometer-jjugccc-ccca1?qid=7619223e-82c0-4edc-b42e-17c9b118df29&v=&b=&from_search=4) - Presentation about Spring Boot Actuator, Micrometer, Prometheus
+- 
 ### Cache
 
 *Application cache*
@@ -47,3 +50,12 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 *Feature flagging, A/B testing*
 
 - [Flagr](https://github.com/checkr/flagr) - Flagr is a feature flagging, A/B testing and dynamic configuration microservice
+
+### Chaos
+
+*Chaos engineering*
+
+- [Chaos Monkey Spring Boot](https://github.com/codecentric/chaos-monkey-spring-boot) - Chaos Monkey for Spring Boot applications and will try to attack your running Spring Boot App.
+- [Chaos Toolkit & Chaos Monkey Spring Boot](https://medium.com/chaos-toolkit/chaos-toolkit-loves-chaos-monkey-for-spring-boot-548352985c8f) - Chaos Toolkit LOVES Chaos Monkey for Spring Boot
+
+### Devops
