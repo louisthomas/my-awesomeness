@@ -59,3 +59,5 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Chaos Toolkit & Chaos Monkey Spring Boot](https://medium.com/chaos-toolkit/chaos-toolkit-loves-chaos-monkey-for-spring-boot-548352985c8f) - Chaos Toolkit LOVES Chaos Monkey for Spring Boot
 
 ### Devops
+
+- [Concourse samples](https://github.com/pivotalservices/concourse-pipeline-samples) - Pivotal Concourse samples and recipes
