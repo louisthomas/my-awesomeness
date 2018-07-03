@@ -22,7 +22,7 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Promregator & micrometer](https://docs.google.com/document/d/1XGwjn1wUW843q8G8SEsZYuMRuBIKhsufH0yUEaLMbPc/edit?ts=5afc5875) - SCDF Metrics Collection with Micrometer, Prometheus and Grafana - CloudFoundry.
 - [Sprint Boot & Prometheus](https://dzone.com/articles/monitoring-using-spring-boot-20-prometheus-and-gra) - Set Up and Integrate Prometheus With Grafana for Monitoring
 - [Spring Boot Actuator 2.0 & Micrometer](https://www.slideshare.net/makingx/spring-boot-actuator-20-micrometer-jjugccc-ccca1?qid=7619223e-82c0-4edc-b42e-17c9b118df29&v=&b=&from_search=4) - Presentation about Spring Boot Actuator, Micrometer, Prometheus
-- 
+- [Micrometer & Spring Boot](https://www.youtube.com/watch?v=Bo4lRLyIgU0) - New insights into your Spring Boot
 ### Cache
 
 *Application cache*
