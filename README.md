@@ -10,6 +10,8 @@ A curated list of awesome frameworks, libraries, software and tutorials.
   - [Feature Flag](#feature)
   - [Chaos](#chaos)
   - [Devops](#devops)
+  - [Security](#security)
+  - [Blog](#blog)
   
 ## Projects
 
@@ -24,6 +26,7 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Spring Boot Actuator 2.0 & Micrometer](https://www.slideshare.net/makingx/spring-boot-actuator-20-micrometer-jjugccc-ccca1?qid=7619223e-82c0-4edc-b42e-17c9b118df29&v=&b=&from_search=4) - Presentation about Spring Boot Actuator, Micrometer, Prometheus
 - [Micrometer & Spring Boot](https://www.youtube.com/watch?v=Bo4lRLyIgU0) - New insights into your Spring Boot
 ### Cache
+- [Sprint Boot, Grafana & Prometheus](https://github.com/codecentric/spring-boot-monitoring-sample) - Spring Boot Monitoring, include docker compose with Grafana and Prometheus
 
 *Application cache*
 
@@ -61,3 +64,12 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 ### Devops
 
 - [Concourse samples](https://github.com/pivotalservices/concourse-pipeline-samples) - Pivotal Concourse samples and recipes
+
+### Security
+
+- [Go Cloud Foundry OAuth adapter example](https://github.com/grafana/grafana/pull/6414/commits/801a62c582c8bab101412b312e5e3db5233ed9bd) - Cloud Foundry Oauth adapter for Grafana
+
+### Blog
+
+- [High scability](http://highscalability.com/) - Great blog about architecture
+- 
