@@ -6,12 +6,13 @@ A curated list of awesome frameworks, libraries, software and tutorials.
   - [Monitoring](#monitoring)
   - [Cache](#cache)
   - [Secret](#secret)
-  - [Message](#message)
+  - [Messaging](#messaging)
   - [Feature Flag](#feature)
   - [Chaos](#chaos)
   - [Devops](#devops)
   - [Security](#security)
   - [Blog](#blog)
+  - [Event driven](#event)
   
 ## Projects
 
@@ -27,6 +28,7 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Micrometer & Spring Boot](https://www.youtube.com/watch?v=Bo4lRLyIgU0) - New insights into your Spring Boot
 ### Cache
 - [Sprint Boot, Grafana & Prometheus](https://github.com/codecentric/spring-boot-monitoring-sample) - Spring Boot Monitoring, include docker compose with Grafana and Prometheus
+- [Observability with Spring Boot and PCF](https://content.pivotal.io/blog/out-of-the-box-application-observability-with-spring-boot-pivotal-cloud-foundry) - PCF metrics, Metric registrar, Log-cache PCF platform, Actuator, Micrometer
 
 *Application cache*
 
@@ -42,11 +44,12 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Vault service broker guide](https://www.hashicorp.com/blog/cloud-foundry-vault-service-broker) - How to configure Vault service broker
 - [Vault & PCF](https://www.slideshare.net/stenio123/secure-and-convenient-workflows-integrating-hashicorp-vault-with-pivotal-cloud-foundry-93989914?qid=f0782f53-4280-491e-a120-5e179e5b9a99&v=&b=&from_search=1) - Secure and convenient workflow: Vault with PCF
 
-### Message
+### Messaging
 
 *Message queue technology*
 
 - [Spring cloud stream](https://piotrminkowski.wordpress.com/2018/06/15/building-and-testing-message-driven-microservices-using-spring-cloud-stream/) - Building and testing message-driven microservices using Spring Cloud Stream
+- [Microservices, events, ...](https://www.slideshare.net/Pivotal/microservices-events-and-breaking-the-data-monolith-with-kafka) - software architecture and Kafka
 
 ### Feature
 
@@ -60,6 +63,7 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 
 - [Chaos Monkey Spring Boot](https://github.com/codecentric/chaos-monkey-spring-boot) - Chaos Monkey for Spring Boot applications and will try to attack your running Spring Boot App.
 - [Chaos Toolkit & Chaos Monkey Spring Boot](https://medium.com/chaos-toolkit/chaos-toolkit-loves-chaos-monkey-for-spring-boot-548352985c8f) - Chaos Toolkit LOVES Chaos Monkey for Spring Boot
+- [Gremlin: Chaos engineering tool](https://www.gremlin.com/) - Chaos commercial product
 
 ### Devops
 
@@ -72,4 +76,8 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 ### Blog
 
 - [High scability](http://highscalability.com/) - Great blog about architecture
-- 
+- [Piotr's TechBlog](https://piotrminkowski.wordpress.com/) - Great blog about new technologies.
+
+
+
+
