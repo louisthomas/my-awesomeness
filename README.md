@@ -11,8 +11,9 @@ A curated list of awesome frameworks, libraries, software and tutorials.
   - [Chaos](#chaos)
   - [Devops](#devops)
   - [Security](#security)
+  - [Spring Boot migration](#Spring-Boot-migration)
+  - [Java](#java)
   - [Blog](#blog)
-  - [Event driven](#event)
   
 ## Projects
 
@@ -72,6 +73,19 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 ### Security
 
 - [Go Cloud Foundry OAuth adapter example](https://github.com/grafana/grafana/pull/6414/commits/801a62c582c8bab101412b312e5e3db5233ed9bd) - Cloud Foundry Oauth adapter for Grafana
+
+### Spring-Boot-migration
+
+*Spring boot migration 1.5.x to 2.X
+
+- [Spring-Boot-2.0-Migration-Guide](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide)
+- [migration to Spring Boot 2 when using Flyway](https://wimdeblauwe.wordpress.com/2018/08/30/tip-on-migration-to-spring-boot-2-when-using-flyway/) - Guide to migrate with Flyway
+- [Spring security features matrix](https://github.com/spring-projects/spring-security/wiki/OAuth-2.0-Features-Matrix)
+- [Spring resource server sample](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-oauth2-resource-server) - Sample project with spring-boot-starter-oauth2-resource-server
+
+### Java
+
+- [Upgrading java 8 to 12](https://www.infoq.com/articles/upgrading-java-8-to-12) - Pro and cons & new features for upgrading to Java 12
 
 ### Blog
 
