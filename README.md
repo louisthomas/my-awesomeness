@@ -27,11 +27,11 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [Sprint Boot & Prometheus](https://dzone.com/articles/monitoring-using-spring-boot-20-prometheus-and-gra) - Set Up and Integrate Prometheus With Grafana for Monitoring
 - [Spring Boot Actuator 2.0 & Micrometer](https://www.slideshare.net/makingx/spring-boot-actuator-20-micrometer-jjugccc-ccca1?qid=7619223e-82c0-4edc-b42e-17c9b118df29&v=&b=&from_search=4) - Presentation about Spring Boot Actuator, Micrometer, Prometheus
 - [Micrometer & Spring Boot](https://www.youtube.com/watch?v=Bo4lRLyIgU0) - New insights into your Spring Boot
+
 ### Cache
 - [Sprint Boot, Grafana & Prometheus](https://github.com/codecentric/spring-boot-monitoring-sample) - Spring Boot Monitoring, include docker compose with Grafana and Prometheus
 - [Observability with Spring Boot and PCF](https://content.pivotal.io/blog/out-of-the-box-application-observability-with-spring-boot-pivotal-cloud-foundry) - PCF metrics, Metric registrar, Log-cache PCF platform, Actuator, Micrometer
-
-*Application cache*
+- [Spring MVC ETAG](https://medium.com/simars/http-304-conditional-caching-in-rest-api-using-spring-mvc-ae49f95367de) HTTP-304 Conditional Cache Control using Spring MVC
 
 - [Redis and PCC](https://content.pivotal.io/blog/cache-rules-everything-around-me-when-to-use-redis-and-when-to-use-pivotal-cloud-cache) - When to Use Redis and When to Use Pivotal Cloud Cache
 
