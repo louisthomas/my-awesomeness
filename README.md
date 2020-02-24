@@ -92,6 +92,7 @@ A curated list of awesome frameworks, libraries, software and tutorials.
 - [High scability](http://highscalability.com/) - Blog about architecture
 - [Piotr's TechBlog](https://piotrminkowski.wordpress.com/) - Blog about new technologies.
 - [reflectoring](https://reflectoring.io/) - Blog about Java, Spring and Architecture.
+- [Tuhrig blog](https://tuhrig.de/) - Blog about Spring and AWS
 
 
 
